@@ -18,9 +18,3 @@ O foco principal foi criar uma ferramenta leve e funcional que aplique conceitos
 - **Estrutura de Dados:** Listas e Dicionários para manipulação eficiente de informações.
 - **Módulo JSON:** Para armazenamento de dados em formato de texto estruturado.
 - **Tratamento de Exceções:** Prevenção de erros caso o arquivo de banco de dados não exista.
-
-## 📦 Como Executar o Projeto
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/IsaacFirmino/Sistema-de-Gestao-de-Manutencao](https://github.com/IsaacFirmino/Sistema-de-Gestao-de-Manutencao)
